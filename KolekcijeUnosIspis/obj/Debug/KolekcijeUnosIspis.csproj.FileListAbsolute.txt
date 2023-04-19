@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\bin\Debug\KolekcijeUnosIspis.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\bin\Debug\KolekcijeUnosIspis.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\bin\Debug\KolekcijeUnosIspis.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\KolekcijeUnosIspis\obj\Debug\KolekcijeUnosIspis.pdb
